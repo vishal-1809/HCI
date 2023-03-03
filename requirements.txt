@@ -65,7 +65,7 @@ llvmlite==0.39.1
 Markdown==3.3.6
 MarkupSafe==2.1.1
 matplotlib==3.5.1
-mediapipe==0.9.1.0
+mediapipe==0.9.0.1
 moviepy==1.0.3
 numba==0.56.4
 numpy==1.22.3
